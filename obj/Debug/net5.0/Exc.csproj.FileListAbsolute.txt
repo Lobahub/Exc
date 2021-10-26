@@ -1,0 +1,16 @@
+C:\Users\Loba\Projects\git\Excggg\Exc\bin\Debug\net5.0\Exc.exe
+C:\Users\Loba\Projects\git\Excggg\Exc\bin\Debug\net5.0\Exc.deps.json
+C:\Users\Loba\Projects\git\Excggg\Exc\bin\Debug\net5.0\Exc.runtimeconfig.json
+C:\Users\Loba\Projects\git\Excggg\Exc\bin\Debug\net5.0\Exc.runtimeconfig.dev.json
+C:\Users\Loba\Projects\git\Excggg\Exc\bin\Debug\net5.0\Exc.dll
+C:\Users\Loba\Projects\git\Excggg\Exc\bin\Debug\net5.0\ref\Exc.dll
+C:\Users\Loba\Projects\git\Excggg\Exc\bin\Debug\net5.0\Exc.pdb
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\Exc.csproj.AssemblyReference.cache
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\Exc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\Exc.AssemblyInfoInputs.cache
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\Exc.AssemblyInfo.cs
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\Exc.csproj.CoreCompileInputs.cache
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\Exc.dll
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\ref\Exc.dll
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\Exc.pdb
+C:\Users\Loba\Projects\git\Excggg\Exc\obj\Debug\net5.0\Exc.genruntimeconfig.cache
